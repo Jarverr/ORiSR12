@@ -1,0 +1,7 @@
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb

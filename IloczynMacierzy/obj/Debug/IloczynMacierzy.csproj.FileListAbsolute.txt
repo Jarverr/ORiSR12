@@ -1,0 +1,7 @@
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\IloczynMacierzy\bin\Debug\IloczynMacierzy.exe.config
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\IloczynMacierzy\bin\Debug\IloczynMacierzy.exe
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\IloczynMacierzy\bin\Debug\IloczynMacierzy.pdb
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\IloczynMacierzy\obj\Debug\IloczynMacierzy.csproj.CoreCompileInputs.cache
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\IloczynMacierzy\obj\Debug\IloczynMacierzy.exe
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\IloczynMacierzy\obj\Debug\IloczynMacierzy.pdb
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\IloczynMacierzy\obj\Debug\IloczynMacierzy.csprojAssemblyReference.cache
