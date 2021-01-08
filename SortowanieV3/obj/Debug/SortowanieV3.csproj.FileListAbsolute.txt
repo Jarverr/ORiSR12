@@ -1,0 +1,7 @@
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\SortowanieV3\bin\Debug\SortowanieV3.exe.config
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\SortowanieV3\bin\Debug\SortowanieV3.exe
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\SortowanieV3\bin\Debug\SortowanieV3.pdb
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\SortowanieV3\obj\Debug\SortowanieV3.csproj.CoreCompileInputs.cache
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\SortowanieV3\obj\Debug\SortowanieV3.exe
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\SortowanieV3\obj\Debug\SortowanieV3.pdb
+D:\Pulpit2\ObliczeniaRownolegleISysRozproszone\Lab12\Zadanie1\SortowanieV3\obj\Debug\SortowanieV3.csprojAssemblyReference.cache

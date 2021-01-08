@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IloczynMacierzy", "IloczynM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortowanie", "Sortowanie\Sortowanie.csproj", "{AA8DBA7A-4A29-4A92-AB0C-FF5B4C31121E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortowanieV2", "SortowanieV2\SortowanieV2.csproj", "{4BF71D2B-D597-4E11-928F-5136EFABAB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortowanieV3", "SortowanieV3\SortowanieV3.csproj", "{2EE9C568-6191-41BE-B731-116FB11EC45C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{AA8DBA7A-4A29-4A92-AB0C-FF5B4C31121E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA8DBA7A-4A29-4A92-AB0C-FF5B4C31121E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA8DBA7A-4A29-4A92-AB0C-FF5B4C31121E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF71D2B-D597-4E11-928F-5136EFABAB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF71D2B-D597-4E11-928F-5136EFABAB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF71D2B-D597-4E11-928F-5136EFABAB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF71D2B-D597-4E11-928F-5136EFABAB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE9C568-6191-41BE-B731-116FB11EC45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE9C568-6191-41BE-B731-116FB11EC45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE9C568-6191-41BE-B731-116FB11EC45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE9C568-6191-41BE-B731-116FB11EC45C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,7 +12,6 @@ namespace Sortowanie
         static async Task Main(string[] args)
         {
             //Bubble();
-            Console.WriteLine("Sortowanie szybkie:");
             Console.Write("Podaj liczbę elementów tablicy:");
             Int32.TryParse(Console.ReadLine(), out int amount);
             int[] toSort = new int[amount];
@@ -25,7 +24,7 @@ namespace Sortowanie
             }
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            Console.WriteLine("Sekwencyjnie:");
+            Console.Write("Sekwencyjnie:");
            // quick(toSort);
             Quick_Sort(toSort, 0, toSort.Length - 1);
 
@@ -36,14 +35,16 @@ namespace Sortowanie
             {
                 Console.Write(" " + item);
             }
+            Console.WriteLine("\nTime: " + sw.Elapsed);
             toSort = sorted;
-            
-            
-            
-            
-            Console.WriteLine("Równoległe:");
+            sw.Reset();
+            sw.Start();
 
-            await Quick_Sort2(toSort, 0, toSort.Length - 1);
+
+
+            Console.Write("\nRównoległe:");
+
+            Quick_Sort2(toSort, 0, toSort.Length - 1);
 
             Console.WriteLine();
             Console.WriteLine("Sorted array : ");
@@ -52,8 +53,8 @@ namespace Sortowanie
             {
                 Console.Write(" " + item);
             }
-            toSort = sorted;
-
+            Console.WriteLine("\nTime: "+sw.Elapsed);
+            sw.Stop();
             Console.ReadLine();
         }
         private static void Quick_Sort(int[] arr, int left, int right)
